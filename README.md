@@ -29,21 +29,6 @@ A <strong>Escola Crescente Saber</strong> é uma plataforma digital que oferece 
 <p>Desenvolvido utilizando tecnologias modernas para front-end e back-end, garantindo uma experiência otimizada para clientes e administradores</p>
 
 
----
-
-
-### 📸 Outras Páginas  
-
-<h3 align="center">🌟 Maternal</h3>  
-<p align="center">
-  <img src="https://github.com/crismoraiss/crescente_saber/blob/master/homecs.png?raw=true" alt="Maternal Crescente Saber">
-</p>
-
-<h3 align="center">📝 Sobre a Escola</h3>  
-<p align="center">
-  <img src="https://github.com/crismoraiss/crescente_saber/blob/master/homecs.png?raw=true" alt="Sobre Crescente Saber">
-</p>
-
 
 
 
