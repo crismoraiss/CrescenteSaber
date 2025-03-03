@@ -14,12 +14,12 @@ A <strong>Escola Crescente Saber</strong> é uma plataforma digital que oferece 
 ## ✨ Funcionalidades  
 
 <ul>
-  <li><strong>📚 Página Web Institucional:</strong> Apresenta a história da escola, metodologia de ensino, atividades oferecidas e informações de contato para responsáveis.</li>
-  <li><strong>🛒 Portal do Responsável:</strong> Facilita a comunicação entre pais e escola, permitindo o acompanhamento do desempenho dos alunos e eventos escolares.</li>
-  <li><strong>🎨 Atividades Extracurriculares:</strong> Ambiente digital para gestão de oficinas de artes, música, esportes e brincadeiras interativas, promovendo um aprendizado dinâmico.</li>
-  <li><strong>🏕️ CAMP KIDS:</strong> Módulo para organização de eventos e experiências imersivas, permitindo o planejamento e a inscrição de alunos em atividades lúdicas.</li>
-  <li><strong>🖼️ Galeria Interativa:</strong> Página dedicada à exibição de registros das atividades escolares, permitindo que pais e responsáveis acompanhem momentos importantes da vida escolar das crianças.</li>
-  <li><strong>📊 Dashboard para Coordenadores:(Em desenvolvimento) Um painel administrativo para gerenciamento de alunos, turmas, frequência, eventos e desempenho acadêmico, otimizando a gestão escolar de forma eficiente.</li>
+  <li><strong>📚 Página Web Institucional:</strong> Apresenta a história da escola, metodologia de ensino, atividades oferecidas e informações de contato para responsáveis.</li><br>
+  <li><strong>🛒 Portal do Responsável:</strong> Facilita a comunicação entre pais e escola, permitindo o acompanhamento do desempenho dos alunos e eventos escolares.</li><br>
+  <li><strong>🎨 Atividades Extracurriculares:</strong> Ambiente digital para gestão de oficinas de artes, música, esportes e brincadeiras interativas, promovendo um aprendizado dinâmico.</li><br>
+  <li><strong>🏕️ CAMP KIDS:</strong> Módulo para organização de eventos e experiências imersivas, permitindo o planejamento e a inscrição de alunos em atividades lúdicas.</li><br>
+  <li><strong>🖼️ Galeria Interativa:</strong> Página dedicada à exibição de registros das atividades escolares, permitindo que pais e responsáveis acompanhem momentos importantes da vida escolar das crianças.</li><br>
+  <li><strong>📊 Dashboard para Coordenadores:(Em desenvolvimento) Um painel administrativo para gerenciamento de alunos, turmas, frequência, eventos e desempenho acadêmico, otimizando a gestão escolar de forma eficiente.</li><br>
 </ul>
 
 
