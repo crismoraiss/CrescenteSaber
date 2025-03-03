@@ -1,66 +1,67 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<h1 align="center">🏫 Escola Crescente Saber – Educação Infantil</h1>
 
 <p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+  <img src="https://github.com/crismoraiss/crescente_saber/blob/master/homecs.png?raw=true" alt="Escola Crescente Saber">
 </p>
 
-## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## 📌 Descrição  
+A <strong>Escola Crescente Saber</strong> é um espaço dedicado ao desenvolvimento integral das crianças, proporcionando um ambiente acolhedor onde a aprendizagem e a diversão se encontram. Nossa metodologia valoriza o aprendizado lúdico, incentivando a criatividade e a curiosidade dos alunos.  
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+A escola oferece uma página web institucional com informações detalhadas sobre a estrutura e metodologia, além de um **dashboard em desenvolvimento** para coordenadores acompanharem informações sobre os alunos.
 
-## Learning Laravel
+---
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## ✨ Funcionalidades  
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+<ul>
+  <li><strong>📚 Ensino Infantil:</strong> Estrutura completa para oferecer aprendizado de qualidade com atividades interativas.</li>
+  <li><strong>🎨 Atividades Extracurriculares:</strong> Oficinas de artes, música, jogos educativos e brincadeiras ao ar livre.</li>
+  <li><strong>🏕️ CAMP KIDS:</strong> Experiências imersivas com atividades lúdicas e de exploração para os pequenos.</li>
+  <li><strong>🖼️ Galeria Interativa:</strong> Exposição das atividades realizadas na escola para acompanhamento dos pais.</li>
+  <li><strong>📊 Dashboard para Coordenadores:</strong> (Em desenvolvimento) Plataforma interna para gerenciar informações dos alunos.</li>
+</ul>
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+---
 
-## Laravel Sponsors
+## 🛠️ Tecnologias Utilizadas  
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+<ul>
+  <li><strong>Front-end:</strong> React (ou a tecnologia utilizada)</li>
+  <li><strong>Back-end:</strong> Laravel (ou a tecnologia utilizada)</li>
+  <li><strong>Banco de Dados:</strong> MySQL</li>
+  <li><strong>Estilização:</strong> CSS</li>
+</ul>
 
-### Premium Partners
+---
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+## 📌 Objetivo  
+A **Escola Crescente Saber** tem como missão proporcionar um ambiente seguro e estimulante para as crianças explorarem seu potencial, ao mesmo tempo em que oferece aos pais e coordenadores ferramentas para acompanhar o desenvolvimento dos alunos. O **dashboard escolar** será uma solução para gerenciar informações acadêmicas de maneira eficiente.
 
-## Contributing
+---
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+### 📸 Outras Páginas  
 
-## Code of Conduct
+<h3 align="center">🌟 Maternal</h3>  
+<p align="center">
+  <img src="https://github.com/crismoraiss/crescente_saber/blob/master/homecs.png?raw=true" alt="Maternal Crescente Saber">
+</p>
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+<h3 align="center">📝 Sobre a Escola</h3>  
+<p align="center">
+  <img src="https://github.com/crismoraiss/crescente_saber/blob/master/homecs.png?raw=true" alt="Sobre Crescente Saber">
+</p>
 
-## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
-## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
+
+
+
+
+
+
