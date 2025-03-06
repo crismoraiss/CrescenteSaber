@@ -23,17 +23,6 @@ A <strong>Escola Crescente Saber</strong> é uma plataforma digital que oferece 
 </ul>
 
 
----
-
-<h2>🖥️ Desenvolvimento</h2>
-<p>Desenvolvido utilizando tecnologias modernas para front-end e back-end, garantindo uma experiência otimizada para clientes e administradores</p>
-
-
-
-
-
-
-
 
 
 
